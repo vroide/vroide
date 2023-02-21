@@ -1,6 +1,6 @@
 ##    What's Best in Life?
 
-<img align="right" width="50%" src="resources/conan-whats-best.png" alt="Conan! Whats best in Life?"> 
+<img align="right" width="50%" src="./conan-whats-best.png" alt="Conan! Whats best in Life?">
 
 - focus
 - growth
