@@ -26,7 +26,7 @@
 - the playfulness and curiosity of [dabeaz](https://www.youtube.com/watch?v=pkCLMl0e_0k " David Beazley: Lambda Calculus from the Ground Up")
 - [IO hoisting](https://www.youtube.com/watch?v=PBQN62oUnN8 "Brandon Rhodes: Hoist Your I/O") 
 - data-driven designs
-- [Zombies!]( https://youtu.be/6qnNtVdf08Q "braaains")
+- [Zombies!](https://www.youtube.com/watch?v=aWJPlRVZX90 "braaains")
 
 ## Where I see myself in 2023
 
