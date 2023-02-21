@@ -32,7 +32,7 @@
 
 - doing FOSS contributions
 - in co-working atmospheres
-- interning at a vibrant software company
+- interning at a vibrant tech company
 
 </details>
 
