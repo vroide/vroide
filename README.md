@@ -22,7 +22,7 @@
 
 ## What I'm currently brainwashed by
 
-- functional programming, [rich](https://www.youtube.com/watch?v=-6BsiVyC1kM "Rich Hickey: The Value of Values") pragmatic flavor
+- pragmatic functional programming with a [rich](https://www.youtube.com/watch?v=-6BsiVyC1kM "Rich Hickey: The Value of Values") flavor
 - the playfulness and curiosity of [dabeaz](https://www.youtube.com/watch?v=pkCLMl0e_0k " David Beazley: Lambda Calculus from the Ground Up")
 - [IO hoisting](https://www.youtube.com/watch?v=PBQN62oUnN8 "Brandon Rhodes: Hoist Your I/O") 
 - data-driven designs
