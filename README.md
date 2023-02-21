@@ -35,3 +35,5 @@
 - interning at a vibrant software company
 
 </details>
+
+[:envelope: Contact](mailto:adrech@grooveroom.de "adrech@grooveroom.de") | [:key: GPG](https://raw.githubusercontent.com/adrech/adrech/master/adrech.asc)
