@@ -1,8 +1,3 @@
-##     Where I'm at
-
-- on the verge of software productivity
-- eager doseq clojure
-
 ## What I'm currently :brain:washed by
 
 - pragmatic functional programming with a [rich](https://www.youtube.com/watch?v=-6BsiVyC1kM "Rich Hickey: The Value of Values") flavor
@@ -10,10 +5,10 @@
 - fulcro & the [teachings of Tony Kay](https://podcasts.apple.com/us/podcast/s4-e6-fulcro-with-tony-kay-part-1/id1461500416?i=1000479361034 "Clojurestream Podcast: Fulcro with Tony Kay")
 - [zombie-themed pairing sessions](https://youtu.be/6qnNtVdf08Q "braaains")
   
-## Where I see myself in 2023
+## Where I see myself in 2024
 
 - doing FOSS contributions
 - in co-working atmospheres
 - interning at a friendly tech company
 
-[:envelope: Contact](mailto:adrech@grooveroom.de "adrech@grooveroom.de") | [:key: GPG](https://raw.githubusercontent.com/adrech/adrech/master/adrech.asc)
+[:envelope: Contact](mailto:caadr@grooveroom.de "caadr@grooveroom.de") | [:key: GPG](https://raw.githubusercontent.com/caadr/caadr/master/caadr.asc)
