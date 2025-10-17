@@ -11,4 +11,4 @@
 - in co-working atmospheres
 - interning at a friendly tech company
 
-[:envelope: Contact](mailto:caadr@grooveroom.de "caadr@grooveroom.de") | [:key: GPG](https://raw.githubusercontent.com/caadr/caadr/master/caadr.asc)
+[:envelope: Contact](mailto:caadr@grooveroom.de "caadr@grooveroom.de")
